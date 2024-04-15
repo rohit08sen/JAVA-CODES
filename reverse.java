@@ -19,7 +19,7 @@ public class reverse{
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         int ar[]=new int[20];
-        System.out.print("Enter the size of array you want :");
+        System.out.print("Enter the size of array :");
         int n=sc.nextInt(); 
         System.out.print("Enter the array elements:");
         for(int i=0;i<n;i++){
